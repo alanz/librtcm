@@ -5,3 +5,4 @@ flags: {}
 extra-deps:
 - word24-2.0.1
 - binary-bits-0.5
+pvp-bounds: both
